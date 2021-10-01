@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-basic",
+  "version": "1.0.0",
+  "description": "ExpressJS Basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhoiran/expressjs-basic.git"
+  },
+  "author": "mukhoiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukhoiran/expressjs-basic/issues"
+  },
+  "homepage": "https://github.com/mukhoiran/expressjs-basic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
